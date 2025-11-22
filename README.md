@@ -38,7 +38,7 @@ I'm currently a **Student Assistant at Stuttgart University**, pursuing my Maste
 
 ## 📫 How to Reach Me
 
-- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/mohamedsaid2710)
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/mohamed-said-259b6b2b5/)
 - 🐙 GitHub: [@mohamedsaid2710](https://github.com/mohamedsaid2710)
 
 ## 💡 Currently
