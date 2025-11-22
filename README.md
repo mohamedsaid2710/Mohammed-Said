@@ -26,16 +26,6 @@ I'm currently a **Student Assistant at Stuttgart University**, pursuing my Maste
 - **Translation Studies**: Cross-linguistic communication
 - **Language Acquisition and Teaching**
 
-## 📊 GitHub Stats
-
-![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedsaid2710&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedsaid2710&layout=compact&theme=radical)
-
-## 🔥 GitHub Streak
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohamedsaid2710&theme=radical)](https://git.io/streak-stats)
-
 ## 📫 How to Reach Me
 
 - 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/mohamed-said-259b6b2b5/)
@@ -48,10 +38,6 @@ I'm currently a **Student Assistant at Stuttgart University**, pursuing my Maste
 - 🔍 Working as a Student Assistant at Stuttgart University
 - 📚 Exploring cognitive mechanisms of language processing
 - 🌐 Bridging linguistic theory and empirical research
-
-## 📈 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=mohamedsaid2710&color=blueviolet&style=flat-square)
 
 ---    
 
