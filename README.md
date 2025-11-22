@@ -1,16 +1,30 @@
 # Hi there, I'm Mohammed Said 👋
 
-Welcome to my GitHub profile! I'm passionate about technology and building impactful solutions.
+Welcome to my GitHub profile! I'm a linguistics researcher passionate about language, cognition, and human communication.
 
 ## 🚀 About Me
 
-I'm a developer who loves to learn and explore new technologies. I'm constantly working on improving my skills and contributing to the open-source community.
+I'm currently a **Student Assistant at Stuttgart University**, pursuing my Master's in **Theoretical and Empirical Linguistics** with a focus on **Psycholinguistics**. 
 
-## 🛠️ Technologies & Tools
+### 🎓 Education
+- **M.A. in Theoretical and Empirical Linguistics** - Stuttgart University, Germany (Current)
+  - DAAD Scholarship Recipient
+  - Focus: Psycholinguistics
+- **B.A. in English Language and Literature** (Minor in Translation) - Birzeit University, Palestine
 
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+### 💼 Experience
+- **Student Assistant** - Stuttgart University (Current)
+- **Research and Teaching Assistant** - Birzeit University (2 years)
+  - Conducted linguistic research
+  - Supported teaching activities in English language and literature
+
+## 🔬 Research Interests
+
+- **Psycholinguistics**: Language processing and cognitive mechanisms
+- **Theoretical Linguistics**: Language structure and analysis
+- **Empirical Linguistics**: Data-driven language research
+- **Translation Studies**: Cross-linguistic communication
+- **Language Acquisition and Teaching**
 
 ## 📊 GitHub Stats
 
@@ -25,15 +39,16 @@ I'm a developer who loves to learn and explore new technologies. I'm constantly 
 ## 📫 How to Reach Me
 
 - 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/mohamedsaid2710)
-- 📧 Email: mohamedsaid2710@example.com
-- 🐦 Twitter: [@mohamedsaid2710](https://twitter.com/mohamedsaid2710)
+- 📧 Email: Feel free to reach out for collaboration or discussions
+- 🐦 GitHub: [@mohamedsaid2710](https://github.com/mohamedsaid2710)
 
 ## 💡 Currently
 
-- 🌱 I'm currently learning and exploring new technologies
-- 👯 I'm looking to collaborate on interesting open-source projects
-- 💬 Ask me about anything tech-related
-- ⚡ Fun fact: I love solving problems and building things
+- 🎓 Pursuing M.A. in Theoretical and Empirical Linguistics at Stuttgart University
+- 🧠 Focusing on Psycholinguistics research
+- 🔍 Working as a Student Assistant at Stuttgart University
+- 📚 Exploring cognitive mechanisms of language processing
+- 🌐 Bridging linguistic theory and empirical research
 
 ## 📈 Profile Views
 
